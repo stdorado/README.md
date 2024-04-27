@@ -1,6 +1,3 @@
-Por supuesto, aquí está la versión actualizada del README sin la sección de experiencia:
-
----
 
 # Santino Tomas Dorado
 
@@ -33,6 +30,4 @@ Por supuesto, aquí está la versión actualizada del README sin la sección de 
 
 ¡Gracias por visitar mi perfil! No dudes en contactarme a través de [doradosantinotomas@gmail.com](mailto:doradosantinotomas@gmail.com) o en LinkedIn si tienes alguna pregunta o propuesta de colaboración.
 
----
 
-¡Espero que esta versión sea de tu agrado! Si necesitas más ajustes o cambios, ¡házmelo saber!
